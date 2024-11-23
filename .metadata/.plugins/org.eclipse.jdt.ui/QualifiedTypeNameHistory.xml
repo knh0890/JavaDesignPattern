@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Ainterface"/>
+    <fullyQualifiedTypeName name="AObj"/>
+    <fullyQualifiedTypeName name="AinterfaceImpl"/>
+    <fullyQualifiedTypeName name="Weapon"/>
+    <fullyQualifiedTypeName name="GameCharacter"/>
+    <fullyQualifiedTypeName name="Knife"/>
+    <fullyQualifiedTypeName name="Sword"/>
+    <fullyQualifiedTypeName name="Ax"/>
+</qualifiedTypeNameHistroy>
