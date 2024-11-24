@@ -8,4 +8,10 @@
     <fullyQualifiedTypeName name="Knife"/>
     <fullyQualifiedTypeName name="Sword"/>
     <fullyQualifiedTypeName name="Ax"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="java.lang.Float"/>
+    <fullyQualifiedTypeName name="Adapter"/>
+    <fullyQualifiedTypeName name="AdapterImpl"/>
+    <fullyQualifiedTypeName name="AbstGameConnectHelper"/>
+    <fullyQualifiedTypeName name="DefaultGameConnectionHelper"/>
 </qualifiedTypeNameHistroy>
