@@ -14,4 +14,11 @@
     <fullyQualifiedTypeName name="AdapterImpl"/>
     <fullyQualifiedTypeName name="AbstGameConnectHelper"/>
     <fullyQualifiedTypeName name="DefaultGameConnectionHelper"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="concreate.HpPotion"/>
+    <fullyQualifiedTypeName name="concreate.MpPotion"/>
+    <fullyQualifiedTypeName name="framework.ItemCreator"/>
+    <fullyQualifiedTypeName name="concreate.HpCreator"/>
+    <fullyQualifiedTypeName name="concreate.MpCreator"/>
+    <fullyQualifiedTypeName name="SystemSpeaker"/>
 </qualifiedTypeNameHistroy>
