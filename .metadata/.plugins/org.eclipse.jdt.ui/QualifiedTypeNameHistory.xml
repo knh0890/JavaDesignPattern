@@ -21,4 +21,11 @@
     <fullyQualifiedTypeName name="concreate.HpCreator"/>
     <fullyQualifiedTypeName name="concreate.MpCreator"/>
     <fullyQualifiedTypeName name="SystemSpeaker"/>
+    <fullyQualifiedTypeName name="Circle"/>
+    <fullyQualifiedTypeName name="Shape"/>
+    <fullyQualifiedTypeName name="java.lang.Cloneable"/>
+    <fullyQualifiedTypeName name="Cat"/>
+    <fullyQualifiedTypeName name="java.lang.CloneNotSupportedException"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="Age"/>
 </qualifiedTypeNameHistroy>
