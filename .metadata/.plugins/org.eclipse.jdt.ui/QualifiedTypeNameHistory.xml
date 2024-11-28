@@ -28,4 +28,9 @@
     <fullyQualifiedTypeName name="java.lang.CloneNotSupportedException"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="Age"/>
+    <fullyQualifiedTypeName name="javax.xml.stream.FactoryConfigurationError"/>
+    <fullyQualifiedTypeName name="LgGramBlueprint"/>
+    <fullyQualifiedTypeName name="BluePrint"/>
+    <fullyQualifiedTypeName name="Computer"/>
+    <fullyQualifiedTypeName name="ComputerBuilder"/>
 </qualifiedTypeNameHistroy>
